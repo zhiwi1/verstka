@@ -1,0 +1,413 @@
+.Iphone-photo {
+  margin-top: 60px;
+}
+
+.Design {
+  height: 550px;
+  font-size: 18px;
+  letter-spacing: 3px;
+  color: #16a085;
+  background-color: #ffffff;
+  font-family: "GothamRnd";
+}
+
+.counter {
+  font-size: 12px;
+  letter-spacing: 2px;
+  display: flex;
+  font-family: "GothamRnd";
+  color: #373737;
+}
+
+.arrows {
+  display: flex;
+}
+
+.button-green3 {
+  margin-top: 15px;
+  border-radius: 3px;
+  width: 200px;
+  height: 50px;
+  border: 0;
+  font-size: 12px;
+  letter-spacing: 2px;
+  font-family: GothamRnd;
+  font-size: 12;
+  background: #16a085;
+  color: #ffffff;
+  -webkit-transition-duration: 0.4s;
+  /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button-green3:hover {
+  background-color: #16a100;
+  /* Green */
+  color: white;
+  cursor: pointer;
+}
+
+.button-green2 {
+  margin-top: 30px;
+  border-radius: 3px;
+  width: 200px;
+  height: 50px;
+  border: 0;
+  font-size: 12px;
+  letter-spacing: 2px;
+  font-family: GothamRnd;
+  font-size: 12;
+  background: #16a085;
+  color: #ffffff;
+  -webkit-transition-duration: 0.4s;
+  /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button-green2:hover {
+  background-color: #16a100;
+  /* Green */
+  color: white;
+  cursor: pointer;
+}
+
+.Design {
+  display: flex;
+}
+
+.icoI {
+  padding-top: 20px;
+  padding-right: 290px;
+  overflow: hidden;
+}
+
+.Lorem {
+  font-size: 12px;
+  font-family: "GothamRndB";
+}
+
+.Rappresent {
+  padding-top: 70px;
+  padding-left: 125px;
+  height: 430px;
+  display: flex;
+}
+
+.ico:hover {
+  background-color: #16a100;
+  /* Green */
+  color: white;
+  cursor: pointer;
+}
+
+.socialmedia__list {
+  justify-content: space-around;
+  padding: 208px 580px 0px 580px;
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+}
+
+.time-title {
+  margin: 155px 0px 0px 0px;
+  font-size: 48px;
+  align-items: center;
+  letter-spacing: 5px;
+  color: #ffffff;
+  font-family: "GothamRnd";
+}
+
+.YourLife {
+  margin: 23px 0px 0px 0px;
+  font-size: 36px;
+  align-items: center;
+  letter-spacing: 5px;
+  color: #ffffff;
+  font-family: "GothamRnd";
+}
+
+.Print {
+  font-weight: 450;
+  font-size: 16px;
+  letter-spacing: 2px;
+  color: #ffffff;
+  letter-spacing: 3px;
+  font-family: "GothamRounded-Medium";
+  margin-top: 0%;
+}
+
+.button-green {
+  margin-top: 10px;
+  border-radius: 3px;
+  width: 160px;
+  height: 50px;
+  border: 0;
+  font-size: 12px;
+  letter-spacing: 2px;
+  font-family: GothamRnd;
+  font-size: 12;
+  background: #16a085;
+  color: #ffffff;
+  -webkit-transition-duration: 0.4s;
+  /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button-green:hover {
+  background-color: #16a100;
+  /* Green */
+  color: white;
+  cursor: pointer;
+}
+
+.Rappresent-text {
+  font-size: 18px;
+  letter-spacing: 3px;
+  color: #16a085;
+  background-color: #f5f6f7;
+  font-family: "GothamRnd";
+}
+
+.Lorem {
+  line-height: 2;
+  width: 410px;
+  font-size: 13px;
+  letter-spacing: 2px;
+  color: #373737;
+  font-family: "Gotham-Rounded-Medium";
+}
+
+.Design-text {
+  font-size: 18px;
+  letter-spacing: 3px;
+  color: #16a085;
+  font-family: "GothamRnd";
+}
+
+.Layout-num {
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: #373737;
+  font-family: "GothamRnd";
+}
+
+.OUR {
+  font-size: 16px;
+  letter-spacing: 2px;
+  color: #373737;
+  font-family: "GothamRnd";
+}
+
+.Lorem-small {
+  font-size: 10px;
+  letter-spacing: 2px;
+  color: #817171;
+  font-family: "GothamRndB";
+  text-align: center;
+}
+
+.Subscribe-text {
+  font-size: 24px;
+  letter-spacing: 4px;
+  color: #ffffff;
+  font-family: "GothamRnd";
+}
+
+.Download-text {
+  font-size: 20px;
+  letter-spacing: 3px;
+  color: #373737;
+  font-family: "Gotham Rnd";
+}
+
+.link-footer {
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: #373737;
+  font-family: "Gotham Rnd";
+}
+
+.up {
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: #373737;
+  font-family: "GothamRnd";
+}
+
+.Copyright {
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: #373737;
+  font-family: "GothamRnd";
+}
+
+h1 {
+  font-size: 36px;
+  letter-spacing: 5px;
+  color: #ffffff;
+}
+
+.Arrow-left:hover {
+  background-color: #16a100;
+  /* Green */
+  color: white;
+  cursor: pointer;
+}
+
+.Arrow-right:hover {
+  background-color: #16a100;
+  /* Green */
+  cursor: pointer;
+}
+
+.OurClass {
+  height: 482px;
+  display: flex;
+  align-items: center;
+}
+
+.logoOUR {
+  margin-left: 40px;
+}
+
+.Check {
+  border: 0px;
+  background: url("../../img/ico/check.png") no-repeat center;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 63px;
+  height: 62px;
+  background-color: #16a085;
+}
+
+.buttons_media {
+  display: flex;
+}
+
+.Apple-button {
+  display: flex;
+}
+
+.Play-button {
+  display: flex;
+}
+
+.button-greenD {
+  margin-top: 10px;
+  width: 160px;
+  height: 50px;
+  border: 0;
+  font-size: 12px;
+  letter-spacing: 2px;
+  font-family: GothamRnd;
+  font-size: 12;
+  background-color: #1abc9c;
+  color: #ffffff;
+  -webkit-transition-duration: 0.4s;
+  /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button-greenD:hover {
+  background: #16a085;
+  /* Green */
+  color: white;
+  cursor: pointer;
+}
+
+.footer1box {
+  display: flex;
+}
+
+.footer-links {
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0px;
+}
+
+.ko {
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: #16a085;
+  font-weight: bold;
+  font-family: "GothamRnd";
+}
+
+.link-footer {
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: #373737;
+  font-weight: bold;
+  font-family: "GothamRnd";
+}
+
+.Copyright {
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-top: 20px;
+}
+
+.field::placeholder {
+  font-size: 16px;
+  letter-spacing: 2px;
+  color: #373737;
+  font-family: "GothamRndB";
+}
+
+.wrapper {
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.header {
+  padding: 25px 207px 0px 207px;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.navigation__link {
+  list-style: none;
+  display: flex;
+  color: #fff;
+}
+
+.title-link {
+  padding: 20px 0px 0px 0px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 15.7px;
+  letter-spacing: 3px;
+  color: #ffffff;
+  font-weight: 500;
+  font-family: "GothamRnd";
+}
+
+.title-link:hover {
+  color: #16a085;
+  cursor: pointer;
+}
+
+.Rappresent {
+  background: #f5f6f7;
+}
+
+.OurCommunity {
+  background: #f5f6f7;
+}
+
+.Download {
+  background-color: #f5f6f7;
+}
+
+/*# sourceMappingURL=style.css.map */

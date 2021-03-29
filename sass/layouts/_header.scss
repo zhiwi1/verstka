@@ -1,0 +1,36 @@
+.header{
+    padding: 25px 207px 0px 207px;
+  
+}
+.header-navigation{
+ 
+}
+.navigation{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+} 
+.navigation__link{
+  
+    list-style: none;
+    display: flex;
+		
+		color: #fff;
+}
+.title-link{
+    padding:20px 0px 0px 0px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15.7px;
+letter-spacing: 3px;
+// line-height: 400px;
+color: #ffffff;
+//  font-weight: bold;
+font-weight:500;
+    font-family: "GothamRnd";
+}
+.title-link:hover{
+    color: #16a085;
+    cursor: pointer;
+}

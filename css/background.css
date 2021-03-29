@@ -1,0 +1,131 @@
+.nights{
+     background-image: url(../img/your\ life\ a\ photo/Livello1.svg) ;
+     width: 1280px;
+     height: 745px;
+     display: inline-block;
+      }
+
+.Subscribe-photo{
+     background-image: url(../img/subscribe/Livello\ 3.svg);
+     width: 1280px;
+     height: 790px;
+     display: inline-block;
+}
+.photo-iphone{
+     
+     width: 1280px;
+     background-image: url(../img/rappresent/Rettangolo\ 4.svg); 
+
+
+    display: flex; 
+    overflow: visible;
+} 
+
+
+.Check{
+     border: 0px;
+ 
+     background: url("../img/ico/check.png") no-repeat center;
+     border-top-right-radius: 3px;
+     border-bottom-right-radius: 3px;
+ 
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 63px;
+     height: 62px;
+    
+     background-color: #16a085;
+ 
+ }
+ 
+.Design{
+    
+     overflow: hidden;
+}   
+.ApplePhoto{
+     margin-top: 140px;
+     margin-left: 125px;
+}
+ .Check:hover {
+     background-color:#16a100 ; /* Green */
+     color: white;
+     cursor: pointer;
+ }
+ .field{
+      height: 57px;
+      width:300px;
+ }
+ .form{
+      display: flex;
+ }
+ input::placeholder {
+     font-size: 16px;
+     
+     letter-spacing: 2px;
+     color: #373737;
+   
+  
+     font-style:"GothamRounded-Medium" ;
+   }
+ 
+.DownloadContainer{
+     display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    align-items: center;
+}
+.Dowload-text{
+     margin-left:30px;
+ }
+ .footer-links{
+     display:flex;
+     flex-direction: row;
+ 
+     list-style: none;
+ }
+ .link-footer{
+     text-decoration: none;
+
+ }
+ .link-footer:hover{
+     background-color:#16a100 ; /* Green */
+     color: white;
+     cursor: pointer;
+
+ }
+ .Download-text{
+      
+      text-transform: uppercase;
+font-family: "GothamRnd";
+font-size: 20px;
+    letter-spacing: 3px;
+    color: #373737;
+   font-weight: bold;
+   margin-top: 92px;
+   margin-bottom: 5px;
+ }
+ .Download-DContent{
+     display: flex;
+     flex-direction: column;
+     margin: 0 auto;
+     align-items: center;
+      width: 1280px;
+      }
+  .Lorem-2{
+       width: 1280px;
+       text-transform: uppercase;
+      
+       font-size: 12px;
+       letter-spacing: 2px;
+       line-height: 22px;
+       color: #373737;
+       font-weight: 500;
+       font-family: "GothamRnd";
+       text-align: center;
+       margin-top: 0px;
+
+  }    
+  .footer{
+       height: 131px;
+  }
